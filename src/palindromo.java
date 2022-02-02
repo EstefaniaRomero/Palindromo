@@ -33,6 +33,5 @@ public class palindromo {
         String wordUser = "";
         System.out.println("Introdueix una paraula: " );
         return  wordUser = sc.nextLine();
-
     }
 }
